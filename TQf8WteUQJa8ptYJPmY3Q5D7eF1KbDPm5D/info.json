@@ -1,0 +1,24 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "TRC20",
+    "decimals": 18,
+    "description": "USDT is a fully decentralized algorithmic stablecoin",
+    "website": "https://tether.to/",
+    "explorer": "https://tronscan.io/#/token20/TQf8WteUQJa8ptYJPmY3Q5D7eF1KbDPm5D",
+    "status": "active",
+    "id": "TQf8WteUQJa8ptYJPmY3Q5D7eF1KbDPm5D",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/tether_to"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://api-new.whitepaper.io/documents/pdf?id=SJd7rLdTz"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}
